@@ -1,1 +1,1 @@
-[![Visitors](https://img.shields.io/badge/dynamic/json?color=000000&label=%20&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/visitors&logo=github&logoColor=white&labelColor=000000&style=for-the-badge)](https://github.com/danhtienfuh)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/danhtienfuh&label=🚀%20VISITORS&labelColor=%23000000&countColor=%23ffffff&style=for-the-badge&logo=github)
