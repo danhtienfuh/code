@@ -1,2 +1,1 @@
-# Visitor Counter
-![Counter](https://visitor-badge.laobi.icu/badge?page_id=danhtienfuh.danhtienfuh)
+[![Visitor Counter](https://img.shields.io/badge/dynamic/json?color=0066ff&label=Visitors&query=value&url=https://api.countapi.xyz/hit/danhtienfuh/visitors?count=1&style=for-the-badge&logo=github&labelColor=555555&borderColor=0066ff)](https://github.com/danhtienfuh)
