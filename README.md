@@ -1,1 +1,1 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/danhtienfuh&label=🚀%20VISITORS&labelColor=%23000000&countColor=%23ffffff&style=for-the-badge&logo=github)
+[![Octocat](https://img.shields.io/badge/-Octocat-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/danhtienfuh)![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/danhtienfuh&label=🚀%20VISITORS&labelColor=%23000000&countColor=%23ffffff&style=for-the-badge&logo=github)
