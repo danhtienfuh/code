@@ -1,2 +1,2 @@
 [![](https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/danhtienfuh)![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/danhtienfuh&label=%20Số%20Người%20Xem&labelColor=%23000000&countColor=%23ffffff&style=for-the-badge&logo=github&labelSize=20&countSize=30)
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300" alt="Mèo đánh máy">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" alt="Mèo đánh máy">
