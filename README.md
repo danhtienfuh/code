@@ -1,1 +1,1 @@
-![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/danhtienfuh&label=👀%20VISITORS&labelColor=%23111&countColor=%2300ff00&style=for-the-badge&logo=github&logoColor=white&width=200)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/danhtienfuh&label=🚀%20VISITORS&labelColor=%230066ff&countColor=%23ffffff&style=for-the-badge&logo=github)
