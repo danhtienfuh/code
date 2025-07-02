@@ -1,1 +1,1 @@
-[![Visitor Counter](https://danhtienfuh.github.io/code)](https://danhtienfuh.github.io/code)
+![Visitor Counter](https://profile-counter.glitch.me/danhtienfuh/count.svg)
