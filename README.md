@@ -1,1 +1,1 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO&label=VISITORS&color=00ff00&style=flat-square)
+[![Visitors](https://img.shields.io/badge/dynamic/json?color=000000&label=%20&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/visitors&logo=github&logoColor=white&labelColor=000000&style=for-the-badge)](https://github.com/danhtienfuh)
