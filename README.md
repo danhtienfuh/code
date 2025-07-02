@@ -1,1 +1,2 @@
-![Visitor Counter](https://profile-counter.glitch.me/danhtienfuh/count.svg)
+# Visitor Counter
+![Counter](https://visitor-badge.laobi.icu/badge?page_id=danhtienfuh.danhtienfuh)
